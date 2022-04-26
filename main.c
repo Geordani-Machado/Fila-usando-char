@@ -69,7 +69,6 @@
                 printf( "%s --> ", atualPtr->nome );
                 atualPtr = atualPtr->proximoPtr;
             } 
-
             puts( "NULL\n" );
 
         } 
